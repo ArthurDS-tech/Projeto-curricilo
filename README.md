@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Maria Eduarda Souza
+# Maria Eduarda Souza
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Systems+Analysis+%26+Development+Student;Passionate+about+Innovation+%26+Technology;Building+the+Future+Through+Code" alt="Typing Animation">
 
@@ -12,11 +12,11 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🎯 About Me
+## About Me
 
 I'm a **Systems Analysis and Development** student at the Faculty of Engineering in Sorocaba, dedicated to creating innovative technological solutions. My journey combines rigorous academic training with hands-on experience in modern software development.
 
-**🌟 Core Values:**
+**Core Values:**
 - Innovation through technology
 - Continuous learning mindset  
 - Collaborative problem-solving
@@ -35,11 +35,11 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 
 ---
 
-## 🏛️ Academic Excellence
+## Academic Excellence
 
 <div align="center">
 
-### 🎓 Current Education
+### Current Education
 **Bachelor's in Systems Analysis and Development**  
 *Faculty of Engineering, Sorocaba, Brazil*
 
@@ -52,11 +52,11 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 ### <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="25" height="25"> Harvard University
 
 **Computer Science Program**
-- 🧮 **CS50**: Introduction to Computer Science
-- 🌐 **CS50 Web**: Programming with Python & JavaScript
-- 💡 **CS50 AI**: Introduction to Artificial Intelligence
+- **CS50**: Introduction to Computer Science
+- **CS50 Web**: Programming with Python & JavaScript
+- **CS50 AI**: Introduction to Artificial Intelligence
 
-[![Harvard Certificate](https://img.shields.io/badge/🎖️_Certified-Harvard_CS50-A31F34?style=for-the-badge&logoColor=white)](https://cs50.harvard.edu/)
+[![Harvard Certificate](https://img.shields.io/badge/Certified-Harvard_CS50-A31F34?style=for-the-badge&logoColor=white)](https://cs50.harvard.edu/)
 
 </td>
 <td width="50%" align="center">
@@ -64,11 +64,11 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="25" height="25"> MIT - Massachusetts Institute of Technology
 
 **Advanced Computing Specialization**
-- 🐍 **6.00.1x**: Programming Using Python
-- 📊 **6.00.2x**: Computational Thinking & Data Science
-- 🔬 **MITx**: Introduction to Computer Science
+- **6.00.1x**: Programming Using Python
+- **6.00.2x**: Computational Thinking & Data Science
+- **MITx**: Introduction to Computer Science
 
-[![MIT Certificate](https://img.shields.io/badge/🎖️_Certified-MIT_MITx-8A2BE2?style=for-the-badge&logoColor=white)](https://www.edx.org/school/mitx)
+[![MIT Certificate](https://img.shields.io/badge/Certified-MIT_MITx-8A2BE2?style=for-the-badge&logoColor=white)](https://www.edx.org/school/mitx)
 
 </td>
 </tr>
@@ -76,24 +76,24 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🚀 Frameworks & Tools
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -101,59 +101,59 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🔥 [Full-Stack E-Commerce Platform](https://github.com/mari4souza/ecommerce-platform)
+### **Full-Stack E-Commerce Platform**
 **Tech Stack:** Java Spring Boot + React + PostgreSQL
-- 🛍️ Complete shopping cart functionality
-- 🔐 JWT Authentication & Authorization
-- 📊 Admin dashboard with analytics
-- 🚀 Deployed with Docker containerization
+- Complete shopping cart functionality
+- JWT Authentication & Authorization
+- Admin dashboard with analytics
+- Deployed with Docker containerization
 
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/ecommerce-platform)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/ecommerce-platform)
 
 </td>
 <td width="50%">
 
-### 🤖 [AI-Powered Task Manager](https://github.com/mari4souza/ai-task-manager)
+### **AI-Powered Task Manager**
 **Tech Stack:** Go + Python + Machine Learning
-- 🧠 Intelligent task prioritization
-- 📈 Productivity analytics
-- 🔄 Microservices architecture
-- 🎯 RESTful API design
+- Intelligent task prioritization
+- Productivity analytics
+- Microservices architecture
+- RESTful API design
 
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/ai-task-manager)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/ai-task-manager)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 [Data Visualization Dashboard](https://github.com/mari4souza/data-dashboard)
+### **Data Visualization Dashboard**
 **Tech Stack:** React + D3.js + Python Flask
-- 📈 Real-time data processing
-- 🎨 Interactive visualizations
-- 🔍 Advanced filtering system
-- 💾 CSV/JSON data import
+- Real-time data processing
+- Interactive visualizations
+- Advanced filtering system
+- CSV/JSON data import
 
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/data-dashboard)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/data-dashboard)
 
 </td>
 <td width="50%">
 
-### 🌐 [Distributed System Monitor](https://github.com/mari4souza/system-monitor)
+### **Distributed System Monitor**
 **Tech Stack:** Go + Docker + Kubernetes
-- ⚡ High-performance monitoring
-- 📊 Metrics collection & analysis
-- 🚨 Real-time alerting system
-- 📱 Mobile-responsive interface
+- High-performance monitoring
+- Metrics collection & analysis
+- Real-time alerting system
+- Mobile-responsive interface
 
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/system-monitor)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mari4souza/system-monitor)
 
 </td>
 </tr>
@@ -162,13 +162,13 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 
 <div align="center">
 <a href="https://github.com/mari4souza?tab=repositories">
-<img src="https://img.shields.io/badge/🗂️_View_All_Projects-Complete_Portfolio-2E86AB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_All_Projects-Complete_Portfolio-2E86AB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mari4souza&bg_color=0D1117&color=2E86AB&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%">
@@ -181,19 +181,19 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 <div align="center">
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🏅_Harvard-CS50_Graduate-A31F34?style=for-the-badge">
+<img src="https://img.shields.io/badge/Harvard-CS50_Graduate-A31F34?style=for-the-badge">
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎖️_MIT-MITx_Certified-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/MIT-MITx_Certified-8A2BE2?style=for-the-badge">
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/💻_Open_Source-Contributor-00D26A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open_Source-Contributor-00D26A?style=for-the-badge">
 </td>
 </tr>
 </table>
@@ -201,7 +201,7 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 
 ---
 
-## 🤝 Let's Connect
+## Professional Contact
 
 <div align="center">
 <table>
@@ -232,5 +232,5 @@ I'm a **Systems Analysis and Development** student at the Faculty of Engineering
 </div>
 
 <div align="center">
-<i>💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+<i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
 </div>
