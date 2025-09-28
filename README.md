@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maria Eduarda Souza
+# Arthur Daniel Schuster
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Systems+Analysis+%26+Development+Student;Passionate+about+Innovation+%26+Technology;Building+the+Future+Through+Code" alt="Typing Animation">
 
