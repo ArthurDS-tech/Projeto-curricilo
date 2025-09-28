@@ -1,84 +1,86 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=800&color=FF00F6&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+Welcome+to+my+Tech+Universe!+%E2%9C%A8;Crafting+Code+%7C+Building+Innovations" alt="Typing SVG">
-  </a>
-</div>
+# Maria Eduarda Souza
 
-<div align="center">
-  <img src="./src/header-gif.gif" alt="Header Animation" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(255, 0, 246, 0.3);">
-</div>
+**Systems Analysis and Development Student**  
+Faculty of Engineering, Sorocaba | Brazil
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
-<p align="center">
-  I'm a passionate <b>Systems Analysis and Development</b> student at the Faculty of Engineering in Sorocaba. I work with <b>Go</b>, dive deep into <b>Java</b>, and am always chasing new challenges in the tech world. My mission? To craft innovative solutions through code and continuously evolve my skills. Let’s build something extraordinary together!
-</p>
+## About
 
-<div align="center">
-  <img src="./src/study.gif" alt="Study Animation" height="180px" style="border-radius: 8px;">
-</div>
+I am a dedicated Systems Analysis and Development student with a strong foundation in software engineering and a passion for innovative technology solutions. My academic journey combines formal education with prestigious online coursework from leading institutions, focusing on building scalable applications and exploring cutting-edge development practices.
 
----
+## Education & Certifications
 
-<h2 align="left">🌐 Connect with Me</h2>
-<p align="left">
-  <a href="mailto:meduardacardoso.121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF00F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=1A1A1A" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mari4souza/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF00F6?style=for-the-badge&logo=linkedin&logoColor=white&color=1A1A1A" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/mari4.souza/">
-    <img src="https://img.shields.io/badge/Instagram-FF00F6?style=for-the-badge&logo=instagram&logoColor=white&color=1A1A1A" alt="Instagram">
-  </a>
-</p>
-
----
-
-<h2 align="left">🛠️ My Tech Stack</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" title="Spring" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" title="Go" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" title="C" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
+  
+### 🎓 Academic Background
+- **Bachelor's in Systems Analysis and Development**  
+  *Faculty of Engineering, Sorocaba* | In Progress
+
+### 📚 Professional Development
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="20" height="20" alt="Harvard"> **Harvard University** - Computer Science Courses
+- CS50: Introduction to Computer Science
+- CS50 Web Programming with Python and JavaScript
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/2560px-MIT_logo.svg.png" width="20" height="20" alt="MIT"> **Massachusetts Institute of Technology (MIT)** - Advanced Computing
+- Introduction to Computational Thinking and Data Science
+- Introduction to Computer Science and Programming Using Python
+
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
+## Technical Skills
+
+**Programming Languages**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+**Frameworks & Technologies**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚀 [Project Name 1](https://github.com/mari4souza/project-1)
+Full-stack web application built with Java Spring Boot and React. Features user authentication, RESTful API design, and PostgreSQL database integration.
+
+### 💻 [Project Name 2](https://github.com/mari4souza/project-2)
+Microservices architecture implementation using Go, demonstrating scalable system design and containerization with Docker.
+
+### 🔧 [Project Name 3](https://github.com/mari4souza/project-3)
+Data analysis and visualization tool developed in Python, showcasing computational thinking principles learned at MIT.
+
+### 📱 [Complete Repository Portfolio](https://github.com/mari4souza?tab=repositories)
+Explore all my projects and contributions across different technologies and domains.
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&show_icons=true&theme=transparent&title_color=FF00F6&text_color=FFFFFF&border_color=FF00F6&border_radius=10&icon_color=FF00F6" alt="GitHub Stats" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&layout=compact&theme=transparent&title_color=FF00F6&text_color=FFFFFF&border_color=FF00F6&border_radius=10&langs_count=5" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=mari4souza&show_icons=true&theme=minimal&hide_border=true&title_color=2F3349&icon_color=2F3349&text_color=2F3349&bg_color=FFFFFF" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari4souza&layout=compact&theme=minimal&hide_border=true&title_color=2F3349&text_color=2F3349&bg_color=FFFFFF" height="165">
 </div>
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" style="border-radius: 10px;">
-  </picture>
-</div>
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mari4souza/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:meduardacardoso.121@gmail.com)
+
+---
 
 <div align="center">
-  <p>🚀 <i>Code is my canvas, and innovation is my art.</i> 🚀</p>
+  <i>Committed to excellence in software development and continuous learning.</i>
 </div>
